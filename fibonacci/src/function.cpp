@@ -1,9 +1,17 @@
 #include "function.h"
+std::vector<unsigned int> fib_below_n( unsigned int n ){
 
-std::vector<unsigned int> fib_below_n( unsigned int n )
-{
-    // TODO: adicione o seu código aqui.
+    int fib = 0, aux = 0;
+    vector<unsigned int> v;
 
-    // TODO: Isto é apenas um STUB. Troque o retorno pelo que você julgar correto.
-    return std::vector<unsigned int>{};
+    int i, fib1 = 1, fib2 = 1, soma; 
+
+    for (i = 3; i <= n; i = i + 1) {                                        
+        soma = fib1 + fib2;                    
+        fib1 = fib2;                           
+        fib2 = soma; 
+        v.push_back(fib2);                          
+    } 
+
+    return v;
 }

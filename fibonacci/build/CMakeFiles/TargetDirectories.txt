@@ -1,0 +1,5 @@
+/home/victor.couto.097/code/atividade-de-testes-victorcto/fibonacci/build/CMakeFiles/func.dir
+/home/victor.couto.097/code/atividade-de-testes-victorcto/fibonacci/build/CMakeFiles/all_tests.dir
+/home/victor.couto.097/code/atividade-de-testes-victorcto/fibonacci/build/CMakeFiles/run_tests.dir
+/home/victor.couto.097/code/atividade-de-testes-victorcto/fibonacci/build/CMakeFiles/edit_cache.dir
+/home/victor.couto.097/code/atividade-de-testes-victorcto/fibonacci/build/CMakeFiles/rebuild_cache.dir

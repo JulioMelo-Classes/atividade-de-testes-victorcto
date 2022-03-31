@@ -1,0 +1,4 @@
+/home/victor.couto.097/code/atividade-de-testes-victorcto/negativos5/build/CMakeFiles/program.dir
+/home/victor.couto.097/code/atividade-de-testes-victorcto/negativos5/build/CMakeFiles/verify.dir
+/home/victor.couto.097/code/atividade-de-testes-victorcto/negativos5/build/CMakeFiles/edit_cache.dir
+/home/victor.couto.097/code/atividade-de-testes-victorcto/negativos5/build/CMakeFiles/rebuild_cache.dir
